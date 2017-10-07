@@ -1,0 +1,23 @@
+
+    form,
+    .gif,
+    input {
+      margin: 10px;
+    }
+
+    button{
+      margin:5px;
+      border-radius:10px;
+
+    }
+    .padding{
+      margin:10px;
+      border-radius: 8px;
+      background-color:#f1f1f1;
+      height:240px;
+      float:left;
+    }
+
+    .padding p{
+      margin:5px 0 0 10px;
+    }
