@@ -1,1 +1,1 @@
-# week-6-gihpy
+# GIPHY api using javascript
