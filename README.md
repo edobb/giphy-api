@@ -1,3 +1,3 @@
 # GIPHY api using javascript
 
-![Giphy Project](http://edobb.github.com/week-6-gihpy/giphyProject.PNG)
+![Giphy Project](https://raw.githubusercontent.com/edobb/giphy-api/master/giphyProject.PNG)
